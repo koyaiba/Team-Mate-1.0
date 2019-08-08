@@ -1,0 +1,12 @@
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\bin\Debug\MyTeammate.exe
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\bin\Debug\MyTeammate.pdb
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\bin\Debug\MyTeammate.xml
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.vbprojAssemblyReference.cache
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.Form1.resources
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.Form2.resources
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.Resources.resources
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.vbproj.GenerateResource.cache
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.vbproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.exe
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.xml
+C:\Users\jimmy\source\repos\MyTeammate\MyTeammate\obj\Debug\MyTeammate.pdb
